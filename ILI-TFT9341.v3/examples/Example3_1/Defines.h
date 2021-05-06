@@ -1,0 +1,5 @@
+#define CENTER_SCREEN_X_3 65
+#define CENTER_SCREEN_Y_3 105
+#define LINE_SPACING 20
+#define NEW_LINE_CHAR '\n'
+#define WIDEST_2_LINE_LENGTH 27
